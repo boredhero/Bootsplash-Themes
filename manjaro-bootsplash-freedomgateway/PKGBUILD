@@ -3,7 +3,7 @@ pkgname=('bootsplash-theme-manjaro-freedomgateway')
 pkgver=0.2
 pkgrel=2
 url="https://lists.freedesktop.org/archives/dri-devel/2017-December/160242.html"
-arch=('any')
+arch=('aarch64')
 license=('GPL')
 
 depends=()
