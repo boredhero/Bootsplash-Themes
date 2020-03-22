@@ -3,7 +3,7 @@ Kernel Bootsplash theme for manjaro Linux using the Freedom Gateway LLC Logo
 
 # Installation:
 
-- `git clone https://github.com/Blacksuan19/Bootsplash-Themes.git`
+- `git clone https://github.com/boredhero/Bootsplash-Themes.git`
 - `cd manjaro-bootsplash-freedomgateway`
 - run `bootsplash-manjaro-freedomgateway.sh` to generate STL model.
 - run `makepkg` to create Arch package and install it with `pacman -U $package_name`
