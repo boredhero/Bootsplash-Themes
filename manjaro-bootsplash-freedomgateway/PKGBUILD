@@ -11,8 +11,8 @@ builddepends=('imagemagick')
 options=('!libtool' '!emptydirs')
 
 source=('bootsplash-packer'
-	'bootsplash-manjaro-man.sh'
-	'bootsplash-manjaro-man.initcpio_install'
+	'bootsplash-manjaro-freedomgateway.sh'
+	'bootsplash-manjaro-freedomgateway.initcpio_install'
 	'spinner.gif'
 	'fglogo.png')
 
