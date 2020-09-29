@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/freedomgateway/fg_branding/master/fg_logo_gold.jpg" alt="drawing" width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/freedomgateway/fg_branding/master/old_logos/old_logo_transparent.png" alt="drawing" width="300"/></p>
 
 # <p align="center"><b>legacy_fg_bootsplash_theme</b></p>
 <p align="center"><b><i>Legacy Kernel Bootsplash theme for Manjaro Linux using the Old Freedom Gateway LLC Logo</i></b></p>
