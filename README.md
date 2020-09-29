@@ -2,7 +2,7 @@
 
 # <p align="center"><b>fg_bootsplash_theme</b></p>
 <p align="center"><b>Kernel Bootsplash theme for Manjaro Linux using the Old Freedom Gateway LLC Logo</b></p>
-<p align="center"><b><i>Kernel Bootsplash theme for Manjaro Linux using the Old Freedom Gateway LLC Logo</i></b></p>
+<p align="center"><b><i>This was made for the old Pine64 and Pine64 Pro boards but probably could be re-used on the new ones too!</i></b></p>
 
 ---
 
