@@ -1,6 +1,12 @@
+<p align="center"><img src="https://raw.githubusercontent.com/freedomgateway/fg_branding/master/fg_logo_gold.jpg" alt="drawing" width="300"/></p>
+
+# <p align="center"><b>fg_bootsplash_theme</b></p>
+<p align="center"><b>Kernel Bootsplash theme for Manjaro Linux using the Old Freedom Gateway LLC Logo</b></p>
+<p align="center"><b><i>Kernel Bootsplash theme for Manjaro Linux using the Old Freedom Gateway LLC Logo</i></b></p>
+
+---
+
 # Freedom Gateway Bootsplash Theme
-Kernel Bootsplash theme for manjaro Linux using the Freedom Gateway LLC Logo
-*This was made for the old Pine64 and Pine64 Pro boards but probably could be re-used on the new ones too!*
 
 # Installation:
 
